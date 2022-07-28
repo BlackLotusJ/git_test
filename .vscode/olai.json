@@ -1,0 +1,12 @@
+{
+    
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "/home/jerry/repos/git_test/odin-links-and-images/index.html"
+        }
+    ]
+}
